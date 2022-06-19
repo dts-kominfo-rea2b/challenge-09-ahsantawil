@@ -1,0 +1,12 @@
+.header {
+    margin: auto;
+    border-bottom: 3px dotted #fd9f99;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    width: 50%;
+    text-align: center;
+}
+
+.header div span {
+    font-style: italic ;
+}
